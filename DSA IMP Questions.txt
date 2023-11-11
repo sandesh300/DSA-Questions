@@ -18,7 +18,7 @@ DSA IMP Interview Questions
 
 9. Write a function that removes all vowels from a given string.
 
-10. Write a function that checks if a given string is a pangram (contains every letter of the alphabet).
+10. Write a function that checks if a given string is a anagram (contains every letter of the alphabet).
 
 11. Write a function that removes duplicate characters from a given string.
 
