@@ -1,6 +1,6 @@
-# DSA Questions Repository
+# Important Interview Programs
 
-## Interview Questions
+## Interview Questions :
 
 1. Write a function that checks if a given number is a multiple of both 3 and 5.
 2. Write a function that checks if a given number is prime.
