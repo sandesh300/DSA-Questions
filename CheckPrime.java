@@ -1,5 +1,35 @@
 // 2. Write a function that checks if a given number is prime.
 
+public class PrimeChecker {
+
+    // Function to check if a number is prime
+    public static boolean isPrime(int num) {
+        if (num <= 1) {
+            return false;
+        }
+        // Check from 2 to sqrt(num)
+        for (int i = 2; i * i <= num; i++) {
+            if (num % i == 0) {
+                return false;
+            }
+        }
+        return true;
+    }
+
+    // Main method for testing
+    public static void main(String[] args) {
+        int number = 17; // Example number
+        if (isPrime(number)) {
+            System.out.println(number + " is prime.");
+        } else {
+            System.out.println(number + " is not prime.");
+        }
+    }
+}
+
+
+--------------------------------------------------------------------------------------------------------
+
 public class CheckPrime {
     public static int isPrime(int no)
     {
@@ -32,3 +62,5 @@ public class CheckPrime {
         }
     }
 }
+
+
