@@ -1,6 +1,5 @@
 # Important Interview Programs
 
-## Interview Questions :
 
 1. Write a function that checks if a given number is a multiple of both 3 and 5.
 2. Write a function that checks if a given number is prime.
@@ -11,7 +10,7 @@
 7. Write a function that finds the factorial of a given number.
 8. Write a function that checks if a given string contains a given substring.
 9. Write a function that removes all vowels from a given string.
-10. Write a function that checks if a given string is a pangram (contains every letter of the alphabet).
+10. Write a function that checks if a given string is a anagram (contains every letter of the alphabet).
 11. Write a function that removes duplicate characters from a given string.
 12. Write a function that sorts an array of numbers in ascending order.
 13. Write a function that sorts an array of numbers in descending order.
